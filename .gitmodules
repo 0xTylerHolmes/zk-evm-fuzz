@@ -1,0 +1,9 @@
+[submodule "state-test/input-generation/FuzzyVM"]
+	path = state-test/input-generation/FuzzyVM
+	url = https://github.com/MariusVanDerWijden/FuzzyVM.git
+[submodule "state-test/input-generation/goevmlab"]
+	path = state-test/input-generation/goevmlab
+	url = https://github.com/0xTylerHolmes/goevmlab.git
+[submodule "state-test/harnesses/zkevm-circuits"]
+	path = state-test/harnesses/zkevm-circuits
+	url = https://github.com/0xTylerHolmes/zkevm-circuits.git
